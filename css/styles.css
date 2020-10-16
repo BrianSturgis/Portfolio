@@ -1,47 +1,45 @@
-body {
-  margin: 0;
-  padding: 0;
-}
-
-h1 {
-  color: blue;
-}
-h2 {
-  font-style: italic;
-  text-align: center;
-}
-
-p {
-  font-family: sans-serif;
-}
-
-ul {
-  font-size: 50px;
-  line-height: 30px;
-}
-.pic1 {
-  width: a50%;
-}
-.pic1PW {
-  width: 1900px;
-
-  
-}
-.wrapper {
-}
 .hero-text {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font: xx-large;
+  font-size: 76pt;
   text-align: center;
   position: absolute;
   top: 55%;
   left:40%;
   transform: translate(-50, -50);
   color: white;
+
+body {
+  margin: 0;
+  padding: 0;
 }
+
+
+}
+.pic1 {
+  width: a50%;
+}
+.pic1PW {
+  width: 1900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.hero-text2 {
+  font-size: 50pt;
+}
+
 .hobbes {
   width: 1000px;
 }
-
-
+.sidebio {
+  width: 30%;
+  float: right;
+}
+.buildings
+  width: 1000px;
+  
 
 
 
