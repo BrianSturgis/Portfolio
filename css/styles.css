@@ -1,3 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
   color: blue;
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 50px;
+  line-height: 30px;
+}
+.pic1 {
+  width: a50%;
+}
+.pic1PW {
+  width: 1900px;
+
+  
+}
+.wrapper {
+}
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 55%;
+  left:40%;
+  transform: translate(-50, -50);
+  color: white;
+}
+.hobbes {
+  width: 1000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
