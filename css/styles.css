@@ -1,39 +1,9 @@
-.hero-text {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  font: xx-large;
-  font-size: 76pt;
-  text-align: center;
-  position: absolute;
-  top: 55%;
-  left: 40%;
-  transform: translate(-50, -50);
-  color: white;
-
-  body {
-    margin: 0;
-    padding: 0;
-  }
-  .pic1 {
-    width: a50%;
-  }
-  .hero {
-  }
-  .heropic {
-    width: 1900px;
-  }
-
-  }
-  .hero-text2 {
-    font-size: 50pt;
-  }
-  .hobbes {
-    width: 100px;
-  }
-  .sidebio {
-    width: 30%;
-    float: right;
-  }
-  .buildings {
-    width: 1000px;
-  }
-}
+.logo {
+	color: #fff;
+	font-weight: bold;
+	text-align: undefined;
+	width: 10%;
+	float: left;
+	margin-top: 15px;
+	margin-left: 25px;
+	letter-spacing: 4px;
