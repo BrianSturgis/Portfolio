@@ -9,7 +9,7 @@
   <style>
     .container {
       display: grid;
-      grid-template-columns: 70% 30%;
+      grid-template-columns: 50% 50%;
       grid-column-gap: 1em;
       grid-row-gap: 1em;
       grid-auto-rows: minmax(100px, auto);
@@ -23,6 +23,17 @@
     .container > div:nth-child(odd) {
       background: #ddd;
     }
+    <style>
+      .footer {
+          position: fixed;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          background-color: red;
+          color: white;
+          text-align: center;
+          }
+      </style>
 
   </style>
 </head>
@@ -47,5 +58,7 @@
       <P><em> sit amet consectetur elit.</em> Repellat sint voluptates possimus quis ipsum velit? Atque labore et hic. Nisi perferendis reiciendis minima illum labore hic itaque deserunt voluptas, dicta, minus ea quis. Rerum vitae ad doloribus, earum sit, molestiae quisquam a aspernatur velit corrupti libero est accusantium impedit beatae!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat sint voluptates possimus quis ipsum velit? Atque labore et hic. Nisi perferendis reiciendis minima illum labore hic itaque deserunt voluptas, dicta, minus ea quis. Rerum vitae ad doloribus, earum sit, molestiae quisquam a aspernatur velit corrupti libero est accusantium impedit beatae!
       </P>
     </div>
-    
+    <div class="footer">
+      <p class="footertext">Footer</p>
+    </div>
 </html>

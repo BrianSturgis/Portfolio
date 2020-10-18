@@ -13,8 +13,6 @@ nav {
   background-color: #fff;
 }
 
-ul {
-}
 
 Ul li {
   list-style: none;
@@ -40,5 +38,8 @@ Ul li a:hover {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: 11ee1e;
   padding: 0 40px;
+}
 
-
+div footer {
+  
+}

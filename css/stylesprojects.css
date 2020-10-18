@@ -3,8 +3,9 @@
   padding: 0%;
 }
 
-body {
+body, html {
   background-color: #eee;
+  height: 100;
 }
 
 nav {
@@ -42,10 +43,17 @@ Ul li a:hover {
   padding: 0 40px;
 }
 .hero-image{
-  width: 200px;
-  margin-top: 0px;
+  height: 50%;
+  width: 240px;
+  margin-top: -34px;
 	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	width: 100%;
+  margin-bottom: 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	margin-left: -65px;
+  width: 104%;
+  background-image: url("./images/blm5.jpg");
+
+  
 	
