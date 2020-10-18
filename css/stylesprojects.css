@@ -1,29 +1,7 @@
-h1 {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif, ti;
-  font-size: 22px;
-  font-style: normal;
-  font-weight: 1500;
-  text-align: cleft;
-  text-decoration: none;
-  text-indent: 30px;
-  text-transform: lowercase;
-  color: red;
-  line-height: ;
-  font-family:Ranchers, cursive;
-}
+* {
+  margin: 0;
+  padding: 0;
 
-a {
-  text-decoration: none;
+#showcase {
+  color: green;
 }
-
-p {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif, ti;
-  font-size: 22px;
-  font-style: normal;
-  font-weight: 100;
-  text-align: cleft;
-  text-decoration: none;
-  text-indent: 30px;
-  text-transform: lowercase;
-  color: red;
-  
