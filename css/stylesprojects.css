@@ -20,13 +20,23 @@ Ul li {
   list-style: none;
   display: inline-block;
   float: left;
+  line-height: 100px;
 }
 
 Ul li a {
-  display: inline-block;
+  display: block;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 28px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: 11ee1e;
-  padding: 0 20px;
+  padding: 0 40px;
 }
+
+Ul li a:hover {
+  color: black;
+  display: block;
+  text-decoration: none;
+  font-size: 28px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: 11ee1e;
+  padding: 0 40px;
