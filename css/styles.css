@@ -77,4 +77,6 @@ Ul li a:hover {
 	width: 100%;
 	
 }
-
+div, footer{
+  text-align: center;
+}

@@ -32,7 +32,9 @@ Ul li a {
   color: 11ee1e;
   padding: 0 40px;
 }
-
+div, footer{
+  text-align: center;
+}
 Ul li a:hover {
   color: black;
   display: block;
@@ -56,4 +58,3 @@ Ul li a:hover {
   background-image: url("./images/blm5.jpg");
 
   
-	

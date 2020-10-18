@@ -40,6 +40,6 @@ Ul li a:hover {
   padding: 0 40px;
 }
 
-div footer {
-  
+div, footer{
+  text-align: center;
 }
