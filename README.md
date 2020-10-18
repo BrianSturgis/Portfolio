@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a Portfolio website for Brian Sturgis OCTOBER cohort at Epicodus in Portland, Oregon. }_
+_{This is a Portfolio website for Brian Sturgis OCTOBER cohort at Epicodus in Portland, Oregon. I used a reset code for css}_
 
 ## Setup
 
