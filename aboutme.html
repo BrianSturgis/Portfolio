@@ -6,6 +6,25 @@
   <link href="css/bootstrap.css" rel ="stylesheet" type="text/css" media="all">
   <link href="css/stylesaboutme.css" rel="stylesheet" type="text/css" media="all"> 
   <title>ABOUT ME</title>
+  <style>
+    .container {
+      display: grid;
+      grid-template-columns: 70% 30%;
+      grid-column-gap: 1em;
+      grid-row-gap: 1em;
+      grid-auto-rows: minmax(100px, auto);
+    }
+    
+    .container > div {
+      background: rgb(98, 94, 94);
+      padding: 1em;
+    }
+
+    .container > div:nth-child(odd) {
+      background: #ddd;
+    }
+
+  </style>
 </head>
 <body
   <nav>
@@ -14,7 +33,19 @@
       <li><a href="projects.html">PROJECTS</a></li>
     </ul> 
   </nav>
-  <div class=""></div>
-
-</body>
+  
+  <div class="container">
+    <div class="left-text">
+      <h1>ABOUT ME:</h1>
+      <p>My name is Brian Sturgis and i am a Software Engineering student living in Portland Oregon.  I am a filmaker, Musician, painter, uncle, and son.
+      </p> 
+      <p>My name is Brian Sturgis and i am a Software Engineering student living in Portland Oregon.  I am a filmaker, Musician, painter, uncle, and son.
+      </p>  
+    </div>
+    <div class="right-text">
+      <h1>BORN IN PORTLAND</h1>
+      <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat sint voluptates possimus quis ipsum velit? Atque labore et hic. Nisi perferendis reiciendis minima illum labore hic itaque deserunt voluptas, dicta, minus ea quis. Rerum vitae ad doloribus, earum sit, molestiae quisquam a aspernatur velit corrupti libero est accusantium impedit beatae!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat sint voluptates possimus quis ipsum velit? Atque labore et hic. Nisi perferendis reiciendis minima illum labore hic itaque deserunt voluptas, dicta, minus ea quis. Rerum vitae ad doloribus, earum sit, molestiae quisquam a aspernatur velit corrupti libero est accusantium impedit beatae!
+      </P>
+    </div>
+    
 </html>
