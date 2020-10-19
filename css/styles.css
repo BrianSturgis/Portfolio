@@ -26,7 +26,6 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 .hero-text h2 {
   display: block;
   color: white;
@@ -38,17 +37,14 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 ul {
 }
-
 Ul li {
   list-style: none;
   display: inline-block;
   float: left;
   line-height: 100px;
 }
-
 Ul li a {
   display: block;
   text-decoration: none;
@@ -57,7 +53,6 @@ Ul li a {
   color: 11ee1e;
   padding: 0 30px;
 }
-
 Ul li a:hover {
   color: black;
   display: block;
